@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "fullName": "John Smith",
+    "city": "New York",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "fullName": "Jane Doe",
+    "city": "San Francisco",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "fullName": "Mike Johnson",
+    "city": "Los Angeles",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "fullName": "Emily Brown",
+    "city": "Chicago",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "fullName": "David Lee",
+    "city": "Boston",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 6,
+    "fullName": "Sarah Chen",
+    "city": "Seattle",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 7,
+    "fullName": "Jason Kim",
+    "city": "Atlanta",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 8,
+    "fullName": "Karen Nguyen",
+    "city": "Houston",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 9,
+    "fullName": "Alex Wang",
+    "city": "San Diego",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 10,
+    "fullName": "Jessica Wu",
+    "city": "Miami",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 11,
+    "fullName": "Peter Li",
+    "city": "Denver",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 12,
+    "fullName": "Grace Park",
+    "city": "Washington D.C.",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 13,
+    "fullName": "Kevin Chen",
+    "city": "Austin",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 14,
+    "fullName": "Sophia Liu",
+    "city": "Portland",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 15,
+    "fullName": "Ryan Kim",
+    "city": "Philadelphia",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 16,
+    "fullName": "Hannah Lee",
+    "city": "Minneapolis",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 17,
+    "fullName": "Benjamin Kim",
+    "city": "Dallas",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 18,
+    "fullName": "Lily Chen",
+    "city": "Phoenix",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 19,
+    "fullName": "Andrew Park",
+    "city": "San Antonio",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 20,
+    "fullName": "Julia Wang",
+    "city": "Salt Lake City",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 21,
+    "fullName": "Emma Smith",
+    "city": "New York",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 22,
+    "fullName": "Mason Jones",
+    "city": "San Francisco",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 23,
+    "fullName": "Avery Wilson",
+    "city": "Los Angeles",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 24,
+    "fullName": "Sophia Brown",
+    "city": "Chicago",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 25,
+    "fullName": "Benjamin Garcia",
+    "city": "Boston",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 26,
+    "fullName": "Emily Thomas",
+    "city": "Seattle",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 27,
+    "fullName": "Michael Robinson",
+    "city": "Atlanta",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 28,
+    "fullName": "Evelyn Davis",
+    "city": "Houston",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 29,
+    "fullName": "Jacob Anderson",
+    "city": "San Diego",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 30,
+    "fullName": "Elizabeth Parker",
+    "city": "Miami",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 31,
+    "fullName": "Daniel Phillips",
+    "city": "Denver",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 32,
+    "fullName": "Ava Campbell",
+    "city": "Washington D.C.",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 33,
+    "fullName": "Kevin Chen",
+    "city": "Austin",
+    "jobTitle": "Employee",
+    "isFavorite": false
+  },
+  {
+    "id": 34,
+    "fullName": "Sophia Mitchell",
+    "city": "Portland",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 35,
+    "fullName": "Elijah Sullivan",
+    "city": "Philadelphia",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 36,
+    "fullName": "Oliver Clark",
+    "city": "Minneapolis",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 37,
+    "fullName": "Isabella Turner",
+    "city": "Dallas",
+    "jobTitle": "Student",
+    "isFavorite": false
+  },
+  {
+    "id": 38,
+    "fullName": "Liam Murphy",
+    "city": "Phoenix",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 39,
+    "fullName": "Charlotte Adams",
+    "city": "San Antonio",
+    "jobTitle": "Professor",
+    "isFavorite": false
+  },
+  {
+    "id": 40,
+    "fullName": "Harper Gonzalez",
+    "city": "Salt Lake City",
+    "jobTitle": "Student",
+    "isFavorite": false
+  }
+]
