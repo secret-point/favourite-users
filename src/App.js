@@ -23,4 +23,6 @@ const App = () => {
   );
 };
 
+console.log("ABC");
+
 export default App;
